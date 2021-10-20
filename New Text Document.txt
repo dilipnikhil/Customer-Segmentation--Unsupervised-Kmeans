@@ -1,0 +1,16 @@
+The is a data analysis portfolio project that will allow you to  perform customer segmentation on a specific group of mall customers. 
+You will identify the best possible cluster using KMeans unsupervised machine learning algorithm to find the univariate, bivariate and multivariate clusters.  
+Once these clusters are identified, summary statistics can be perform on these to identify the best marketing group. 
+
+
+
+Problem statement : Understand the target customers based on income,age,and the mall shoping scores etc,and then label each of theser clusters
+ for the marketing team to plan a strategy.
+
+divide your mall target customers into approcable groups.
+create subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities.
+
+approach - quick eda
+k meand to identify clusers
+summary statisics to on the clusters
+visualize
